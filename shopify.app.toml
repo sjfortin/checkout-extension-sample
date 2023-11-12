@@ -1,6 +1,6 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-name = "upsell"
+name = "checkout-extension-sample"
 client_id = "29f8a270351c311b66ee431b12c98842"
 application_url = "https://treenook--development.gadget.app/api/shopify/install-or-render"
 embedded = true
